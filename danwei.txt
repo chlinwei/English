@@ -1,0 +1,2 @@
+1 foot(英尺) = 12 inches(英寸) = 0.3048 meter(米)
+3 feet = 1 yard(码) = 0.914 meter(米)
